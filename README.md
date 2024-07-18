@@ -110,7 +110,7 @@
             <td align="center">
                 <h2>🎧 LISTEN WITH ME 🎧</h2>
                 <a href="https://open.spotify.com/playlist/50zBeU2oueIP47d4XyR5Is?si=fd9e48e4f164430b">
-                    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zjqfkmbawszam1irs05fwxsls&count=5&unique=true" alt="Spotify recently played"  />
+                    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kx6dqt6g2k6od3xfog6kyqzoq4?si&count=5&unique=true" alt="Spotify recently played"  />
                 </a>
             </td>
             <td align="center">
