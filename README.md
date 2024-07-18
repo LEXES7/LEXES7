@@ -100,27 +100,4 @@
     </table>
 </div> 
 
-###
-
-<hr/>
-
-<div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <h2>🎧 LISTEN WITH ME 🎧</h2>
-                <a href="https://open.spotify.com/playlist/50zBeU2oueIP47d4XyR5Is?si=fd9e48e4f164430b">
-                    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kx6dqt6g2k6od3xfog6kyqzoq4?si&count=5&unique=true" alt="Spotify recently played"  />
-                </a>
-            </td>
-            <td align="center">
-                <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True&langs_count=10" alt="most-used-languages"/>
-            </td>
-        </tr>
-    </table>
-</div> 
-
-###
-
 <hr/>
