@@ -25,7 +25,7 @@
 
 ###    
 
-<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
+<h2 align="center">🐍 Welcome ! 🐍</h2>
 
 <div align="center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka-rodrigo/nureka-rodrigo/output/github-contribution-grid-snake.svg"/>
