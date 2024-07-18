@@ -22,7 +22,7 @@
 ###    
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nureka+Rodrigo!;" alt="greeting"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sachintha+Bhashitha!;" alt="greeting"/>
 </h1> 
 
 ###    
@@ -73,18 +73,6 @@
 
 <hr/>
 
-###
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2040%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407.0%20thousand%20lines%20of%20code-blue)
-
-
-
-
-
-###
 
 <hr/>
 
