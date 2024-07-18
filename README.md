@@ -1,13 +1,13 @@
-<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" width = 340px></p>
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif?raw=true" width = 340px></p>
 
 ###    
 
  <div align="center">
     <a href="https://www.linkedin.com/in/lexes7-bhashitha-65727a319?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B218aFVSoTxaQNG%2FY74SFRw%3D%3D" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width = 50px />
     </a>
     <a href="https://www.instagram.com/the.starboyy/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width = 50px />
     </a>
 </div> 
 
@@ -87,7 +87,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=LEXES7&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
             </td>
             <td rowspan="2" align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LEXES7&locale=en&card_width=320&langs_count=8&theme=dark&order=2&count_private=true" alt="languages graph"/>
+                <img src="https://i0.wp.com/inspi.com.br/wp-content/uploads/2015/03/florian-3.gif?fit=400%2C400&ssl=1" width 800px/>
             </td>
         </tr>
         <tr>
