@@ -16,7 +16,7 @@
 ###    
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=nLEXES7&color=blue" alt="profile-views"/>
+    <img src="https://komarev.com/ghpvc/?username=LEXES7&color=blue" alt="profile-views"/>
 </div> 
 
 ###    
