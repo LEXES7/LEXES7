@@ -23,7 +23,7 @@
 ###    
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sachintha+Bhashitha!;" alt="greeting"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Updock&size=35&center=true&vCenter=true&color=C1C1C1FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sachintha+Bhashitha!;" alt="greeting"/>
 </h1> 
 
 ###    
