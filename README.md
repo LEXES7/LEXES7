@@ -41,7 +41,9 @@
 <h2 align="center"> ☕️ Welcome !🪐 </h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/LEXES7/LEXES7/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions"  src="https://raw.githubusercontent.com/LEXES7/LEXES7/output/github-contribution-grid-snake.svg"/>
+
+
 </div> 
 
 ###
