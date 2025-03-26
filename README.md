@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<div align="center">
+  <img  src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif?raw=true" width = 280px>
+ </div>
 
 ###
 
@@ -20,7 +22,7 @@
 ###    
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Updock&size=35&center=true&vCenter=true&color=C1C1C1FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sachintha+Bhashitha!;" alt="greeting"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=33F752&background=96B6FF00&width=435&lines=Welcome+Aboard+!;My+name+is+Sachintha+Bhashitha" alt="Typing SVG"/>
 </h1> 
 
 ###    
