@@ -2,19 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEXES7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LEXES7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-<div align="center">
-  <img  src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif?raw=true" width = 280px>
- </div>
-
-
-###    
-
  <div align="center">
     <a href="https://www.linkedin.com/in/lexes7-bhashitha-65727a319?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B218aFVSoTxaQNG%2FY74SFRw%3D%3D" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width = 50px />
@@ -99,7 +86,7 @@
     <table>
         <tr>
             <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=LEXES7&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
+               <img src="https://github-readme-stats.vercel.app/api?username=LEXES7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
             </td>
             <td rowspan="2" align="center">
                 <img src="https://i0.wp.com/inspi.com.br/wp-content/uploads/2015/03/florian-3.gif?fit=400%2C400&ssl=1" width 800px/>
