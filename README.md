@@ -23,7 +23,7 @@
 ###    
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=33F752&background=96B6FF00&center=true&vCenter=true&width=435&lines=Welcome+Aboard+!;My+name+is+Sachintha+Bhashitha" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F752&background=96B6FF00&center=true&vCenter=true&width=435&lines=%3E+Initializing...++;%3E+User%3A+Sachintha+Bhashitha;%3E+Role%3A+Full-Stack+Dev;%3E+Affiliation%3A+IT+Student+%40+SLIIT++;%3E+Status%3A+%F0%9F%9F%A2+Online+" alt="Typing SVG"/>
 </h1> 
 
 ###    
