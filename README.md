@@ -1,6 +1,7 @@
 <div align="center">
-  <img  src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif?raw=true" width = 280px>
+  <img  src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 280px>
  </div>
+
 
 ###
 
@@ -22,7 +23,7 @@
 ###    
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=33F752&background=96B6FF00&width=435&lines=Welcome+Aboard+!;My+name+is+Sachintha+Bhashitha" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=33F752&background=96B6FF00&center=true&vCenter=true&width=435&lines=Welcome+Aboard+!;My+name+is+Sachintha+Bhashitha" alt="Typing SVG"/>
 </h1> 
 
 ###    
