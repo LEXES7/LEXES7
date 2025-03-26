@@ -6,7 +6,7 @@
 ###
 
  <div align="center">
-    <a href="https://www.linkedin.com/in/sachintha-bhashitha-675286357 ?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B218aFVSoTxaQNG%2FY74SFRw%3D%3D" target="_blank">
+    <a href="https://www.linkedin.com/in/sachintha-bhashitha-675286357/" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width = 50px />
     </a>
     <a href="https://www.instagram.com/the.starboyy/" target="_blank">
